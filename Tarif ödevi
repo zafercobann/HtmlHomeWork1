@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarif</title>
+</head>
+<body style="background-color: rgb(230 230 230)">
+    <h2 style="font-style: italic; color: orange;">Çikolatalı Magnolya</h2>
+    <img src="https://i.nefisyemektarifleri.com/2020/02/27/lezzetli-kremasiyla-cilekli-magnolia.jpg" alt="Magnolya" style="width: 200px ">
+    <div>
+        <div>
+            <li style="color:brown">Kaç Kişilik : 4 </li>
+            
+        </div>
+        <div>
+            <li style="color:brown">Hazırlama Süresi :  45 Dakika</li>
+        </div>
+        <div>
+            <li style="color:brown">Pişirme Süresi :  15 Dakika</li>
+        </div>
+
+        <ul>
+            <li>
+                <strong>Muhallebisi için</strong> 
+                <li>1 litre süt</li>
+                <li>3 yemek kaşığı un</li>
+                <li>2 yemek kaşığı nişasta</li>
+                <li>1 su bardağı şeker</li>
+                <li>1 adet yumurta sarısı</li>
+                <li>1 paket sıvı krema</li>
+                <li>1 paket vanilya</li>                
+            </li>
+        </ul>
+
+        <ul>
+            <li>
+                <strong> Arası için</strong>
+                <li>1,5 paket burçak bisküvi</li>
+                <li>Çilek</li>
+            </li>
+        </ul>
+
+        <p> <strong style="color: red"> Yapılışı</strong>  <br> 
+            <li>
+                Tencereye süt, şeker, nişasta, un ve yumurtayı alalım. 
+            </li> 
+            <li>
+                Çırpma teli ile çırpalım. <br>
+            </li>
+            <li>
+                Ocağa alıp karıştırmaya başlayalım. <br>
+
+            </li>
+            <li>
+                Kıvamı koyulaşıp, göz göz oluncaya kadar pişirelim.<br>
+
+            </li>
+            <li>
+                Ocaktan alalım, vanilya ekleyelim ve karıştıralım. Soğumaya bırakalım.<br>
+
+            </li>
+            <li>
+                Muhallebimiz soğurken, ara ara karıştıralım ki üzeri kabuk tutmasın.<br>
+
+            </li>
+            <li>
+                Muhallebi soğurken, bisküvileri rondodan geçirelim.<br>
+
+            </li>
+            <li>
+                Muhallebimiz soğuduktan sonra, içine bir paket krema ilave edip mikser ile çırpalım.<br>
+
+            </li>
+            <li>
+                Çilekleri ince dilimler halinde keselim.<br>
+            </li>
+            <li>
+                Kupların en dibine 1 yemek kaşığı bisküvi ekleyelim.<br>
+            </li>
+            <li>
+                Çilekleri görüntülerdeki gibi dizelim ve üzerine muhallebi ilave edelim.<br>
+            </li>
+            <li>
+                Daha sonra bir kat daha bisküvi ve yine muhallebi, en son bisküvi olacak şekilde pay edelim.</p>
+            </li> 
+    </div>
+    
+
+</body>
+</html>
+
+
+
