@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Zafer Çoban</h2>
+
+    <h4>Hakkımda</h4>
+
+    <p> Merhaba, Ben Zafer! İstanbul'da yaşıyorum. 24 yaşındayım ve tam zamanlı olarak Hepsiburada'da çalışıyorum. <br>
+        <br> Bu sektörle yeni tanıştım diyebilirim. <br> 
+        <br> Patika.dev sayesinde ilk adımlarımızı atıyorum.
+        Yarışmacı arkadaşlara iyi şanslar diliyorum.
+    </p>
+
+    <h2>Sevdiğim Filmler&Diziler</h2>
+
+    <p>
+        The Pursuit of Happyness sanırım ilk sırada olur film listem için.
+
+        Diziler de ise birçok dizi mevcut ama favorim Breaking Bad
+    </p> <br>
+    <h3> The Pursuit of Happyness</h3>
+    <img src="https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_FMjpg_UX1000_.jpg" alt="" 
+    
+       style="height:200px ; width: 200px;">
+    <p>Bu görseli her gördüğümde aslında o filmdeki en duygusal sahne aklıma gelmekte. 
+        Metro istasyonundaki tuvalette peçete üzerinde uyudukları o sahne... 
+    </p>
+
+    <ol>
+        <li>Film</li> <ul>
+            <li> <a href="https://www.imdb.com/title/tt0454921/">The Pursuit of Happyness</a></li>
+            <li>Zindan Adası</li>
+        </ul>
+        <li>Dizi</li> <ul>
+            <li>Vikings</li>
+            <li>Game Of Thrones</li>
+            <li>Breaking Bad</li>
+        </ul>
+        <li>Kitap</li> <ul>
+            <li> <a href="https://www.goodreads.com/book/show/40961427-1984">1984</a></li>
+            <li>Suç ve Ceza</li>
+            <li>Sefiller</li>
+        </ul>
+    </ol>
+
+</body>
+</html>
